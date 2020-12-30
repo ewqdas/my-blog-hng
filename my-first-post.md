@@ -1,5 +1,5 @@
 ---
-title: Draft - Jackson holmes
+title: Jackson holmes
 slug: initial-post-test
 tags: reactjs, css, python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1600013575504/pEjlb7jYY.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=format&q=60
